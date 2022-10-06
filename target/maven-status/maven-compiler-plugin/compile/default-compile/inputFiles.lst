@@ -1,0 +1,5 @@
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/Verticle.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/repository/SignupDao.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/RedisConnect/RedisJava.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/entity/Signup.java
+/home/e1066/eclipse-workspace/crudapi/src/main/java/io/manju/vertx/crudapi/service/SignupService.java
